@@ -1,0 +1,19 @@
+/*realizar una replica del trabajo dado*/
+/*asignar el mismo tipo de fuente a los tres bloques de texto */
+div{
+    font-family: "Century Schoolbook";
+}
+/*asignar las propiedades conrespondientes a los bloques*/
+.yellow{
+    background-color: #ffc107;
+    padding:8px 100px 100px 8px;
+    display: block;
+    margin:5px 5px 
+}
+.black{
+    background-color: #333333;
+    color:#fff;
+    padding: 8px 100px 100px 8px;
+    display: block;
+    margin: 10px 5px;
+}
